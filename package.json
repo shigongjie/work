@@ -36,7 +36,7 @@
     "less": "^3.11.1",
     "less-loader": "^6.1.0",
     "nicescroll": "^3.7.4",
-    "node-sass": "^4.9.0",
+    "node-sass": "^7.0.0",
     "nprogress": "^0.2.0",
     "pinyin-match": "^1.0.9",
     "qs": "^6.7.0",
